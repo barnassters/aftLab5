@@ -10,5 +10,5 @@ package model;
  * @author user
  */
 public class Fibonacci {
-    
+    private int LOL;
 }
