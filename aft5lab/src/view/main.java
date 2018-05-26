@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package aft5lab;
+package view;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -15,7 +15,7 @@ import javafx.stage.Stage;
  *
  * @author user
  */
-public class aft5lab extends Application {
+public class main extends Application {
     
     @Override
     public void start(Stage stage) throws Exception {
